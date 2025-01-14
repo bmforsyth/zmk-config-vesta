@@ -2,7 +2,7 @@
 #include "vesta-layouts.dtsi"
 
 &physical_layout0 {
-    transform = <&defalt_transform>;
+    transform = <&default_transform>;
 };
 
 / {
