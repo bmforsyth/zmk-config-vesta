@@ -1,0 +1,15 @@
+file_format: '1'
+id: vesta
+name: Vesta
+type: shield
+url: https://github.com/bmforsyth/zmk-config-vesta
+requires:
+  - seeeduino_xiao_ble
+features:
+  - keys
+  - backlight
+  - underglow
+  - studio
+siblings:
+  - vesta_left
+  - vesta_right
