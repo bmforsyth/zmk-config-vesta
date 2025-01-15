@@ -23,3 +23,5 @@ include:
     shield: vesta_left
   - board: seeeduino_xiao_ble
     shield: vesta_right
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
