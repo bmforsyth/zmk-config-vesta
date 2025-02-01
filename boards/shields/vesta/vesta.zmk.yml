@@ -7,7 +7,6 @@ requires:
   - seeeduino_xiao_ble
 features:
   - keys
-  - backlight
   - underglow
   - studio
 siblings:
